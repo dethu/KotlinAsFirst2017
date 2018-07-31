@@ -2,7 +2,7 @@
 package lesson1.task1
 
 import java.lang.Math.*
-
+// some changes for commit
 /**
  * Пример
  *
